@@ -4,3 +4,5 @@
 ## [專題流程](https://github.com/eason-lin0213/DS_finalproject/blob/main/README_clean.md)
 
 ## [期末專題第二次提案](https://youtu.be/AvTpYK1-BK4?si=5hnWBg9qlBRvtHVt)
+
+## [期末專題最終提案](https://youtu.be/LvukZKmYtrE)
